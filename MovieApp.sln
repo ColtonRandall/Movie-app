@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movie-app", "movie-app\movie-app.csproj", "{1DEA9C3A-4D5C-4B41-8710-FD8C9E23EC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DEA9C3A-4D5C-4B41-8710-FD8C9E23EC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEA9C3A-4D5C-4B41-8710-FD8C9E23EC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEA9C3A-4D5C-4B41-8710-FD8C9E23EC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEA9C3A-4D5C-4B41-8710-FD8C9E23EC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
